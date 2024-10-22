@@ -5,8 +5,8 @@ import datetime
 import os
 
     
-bot = telebot.TeleBot('7343295464:AAEM7vk5K3cNXAywZC_Q11wmMzMu4gk09PU')
-admin_id = ["6218253783"]
+bot = telebot.TeleBot('7493414439:AAFXw3tOkV0OMSCV_T-pffzxqD8YRfaxHnw')
+admin_id = ["1464703207"]
 
 
 USER_FILE = "users.txt"
